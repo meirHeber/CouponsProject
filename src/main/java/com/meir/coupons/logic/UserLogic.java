@@ -1,9 +1,6 @@
 package com.meir.coupons.logic;
 
-import com.meir.coupons.beans.User;
-import com.meir.coupons.dal.CompanyDal;
-import com.meir.coupons.dal.CustomerDal;
-import com.meir.coupons.dal.UserDal;
+import com.meir.coupons.bean.User;
 import com.meir.coupons.enums.UserTypes;
 import com.meir.coupons.enums.objectsParameters.UserParameters;
 

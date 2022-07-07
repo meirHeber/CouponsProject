@@ -1,4 +1,4 @@
-package com.meir.coupons.beans;
+package com.meir.coupons.bean;
 
 public class Category {
     private Integer id;

@@ -1,9 +1,6 @@
 package com.meir.coupons.logic;
 
-import com.meir.coupons.beans.Category;
-import com.meir.coupons.dal.CategoryDal;
-import com.meir.coupons.dal.CouponDal;
-import com.meir.coupons.dal.PurchaseDal;
+import com.meir.coupons.bean.Category;
 import com.meir.coupons.enums.objectsParameters.CategoryParameters;
 
 import java.util.List;

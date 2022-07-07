@@ -1,4 +1,4 @@
-package com.meir.coupons.utils;
+package com.meir.coupons.util;
 
 import java.sql.*;
 

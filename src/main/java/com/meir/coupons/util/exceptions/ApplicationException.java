@@ -1,4 +1,4 @@
-package com.meir.coupons.utils.exceptions;
+package com.meir.coupons.util.exceptions;
 
 import com.meir.coupons.enums.ErrorType;
 
